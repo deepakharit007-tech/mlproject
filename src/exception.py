@@ -1,5 +1,5 @@
 import sys
-import logging
+import src.logger as logging
 
 
 
